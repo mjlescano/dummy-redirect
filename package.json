@@ -1,0 +1,27 @@
+{
+  "name": "dummy-redirect",
+  "version": "0.0.1",
+  "description": "Basic Node.js server to redirect everything to another server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjlescano/dummy-redirect.git"
+  },
+  "keywords": [
+    "node",
+    "redirect",
+    "301"
+  ],
+  "author": "mjlescano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjlescano/dummy-redirect/issues"
+  },
+  "homepage": "https://github.com/mjlescano/dummy-redirect#readme",
+  "engines": {
+    "node": "6.x.x"
+  }
+}
